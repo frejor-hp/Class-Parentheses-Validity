@@ -1,4 +1,4 @@
-class Text_Parentheses:
+class TextParentheses:
     def __init__(self, text):
         self.text = text
 
